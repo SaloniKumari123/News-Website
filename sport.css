@@ -1,0 +1,89 @@
+body{
+	background: url(https://i.pinimg.com/236x/52/dc/c6/52dcc6a638584ae0365619b092b2a2a5.jpg);
+	background-size: cover;
+	background-position: center;
+
+}
+h1{
+	padding-right: 50px;
+	padding-left: 360px;
+	font-size: 70px;
+	font-family: bold;
+	color: black;
+
+}
+li{
+	font-size: 25px;
+	padding-left: 50px;
+	color: black;
+}
+ul{
+	padding-left: 50px;
+
+}
+
+h2{
+	font-size: 30px;
+	color: black;
+	font-style: bold,underline;
+    text-orientation: center;
+}
+h3{
+	font-size: 35px;
+	padding-bottom: 40px;
+	color: black;
+	padding-right: 30px;
+
+}
+.navbar{
+	color: white;
+	background: black;
+}
+.doll{
+	font-size: 15px;
+}
+.navbar-brand{
+	font-size: 25px;
+}
+h4{
+	
+	font-size: 40px;
+	padding-bottom: 50px;
+	padding-left: 20px;
+
+}
+.row{
+	padding-top: 40px;
+	padding-left: 35px;
+}
+p{
+	font-size: 15px;
+	padding-left: 20px;
+}
+.yourself{
+	padding-top: 25px;
+	padding-left: 30px;
+}
+h5{
+	font-size: 50px;
+	padding-top: 50px;
+}
+.tiger{
+	padding-bottom: 40px;
+}
+h6{
+	font-size: 40px;
+	font-bottom: 40px;
+
+}
+.para{
+	font-size: 60px;
+}
+img{
+	width: 45%;
+	float: left;
+	margin: 1.66%;
+}
+.director{
+	font-size: 50px;
+}
